@@ -2,7 +2,7 @@
 
 ## learning moveit config
 
-![IMG_1348](/Users/vanli/Downloads/IMG_1348.JPG)
+![IMG_1348](https://github.com/Van23Li/learning_moveit/tree/main/Images/IMG_1348.JPG)
 
 ~~~bash
 rostopic type /move_group/fake_controller_joint_states
